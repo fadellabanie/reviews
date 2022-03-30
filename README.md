@@ -32,4 +32,9 @@ Code in DatabaseSeeder file To generate Fake Date
             });
         });
         
+        
+ ## Steps 
+ 1. put files in laravel projets 
+ 2. php artisan migrate --seed
+ 
  
