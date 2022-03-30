@@ -7,13 +7,13 @@ Files of Laravel Project
     2. Booking
     3. Review
 2. Migration files
-  1.Rentes Table
-  2.Bookings Table
-  3.Reviws Table
+    1. Rentes Table
+    2. Bookings Table
+    3. Reviws Table
 3. Factories
-  1.Rente Factorie
-  2.Review Factorie
-  3.Booking Factorie
+    1. Rente Factorie
+    2. Review Factorie
+    3. Booking Factorie
   
 4. Controller File
   1. ReviewController 
