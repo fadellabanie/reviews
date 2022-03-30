@@ -6,7 +6,7 @@ Files of Laravel Project
     1. Reante
     2. Booking
     3. Review
-2.Migration files
+2. Migration files
   1.Rentes Table
   2.Bookings Table
   3.Reviws Table
